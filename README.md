@@ -1,7 +1,5 @@
 # DIGITAL_LITERACY_PROJECT
 Digital Literacy Portfolio – CSE0001 | VIT Bhopal | Tasks on digital skills, platforms, and cyber safety.
-# digital-literacy-project
- Digital Literacy Portfolio project demonstrating essential online skills including professional profiles, communication, collaboration tools, and cyber safety awareness.
 
  #  Digital Literacy Project – CSE0001
 
