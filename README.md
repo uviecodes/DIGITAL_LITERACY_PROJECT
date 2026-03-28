@@ -16,7 +16,7 @@ Digital Literacy Portfolio – CSE0001 | VIT Bhopal | Tasks on digital skills, p
 This project was completed as part of the **Digital Literacy course** at VIT Bhopal University. The objective was to develop practical digital skills and create a portfolio demonstrating awareness of professional online presence, communication, collaboration tools, and cybersecurity.
 
 
-## ask Summary
+## Task Summary
 
 ###  Task 1 – Digital Literacy Infographic
 Created an infographic using **Canva** explaining:
